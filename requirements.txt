@@ -27,5 +27,5 @@ langchain-nvidia-ai-endpoints==0.2.0
 langchain-openai==0.1.17
 dataclass_wizard==0.22.2
 unstructured[all-docs]
-onnxruntime==1.18.0
+onnxruntime
 tesseract==0.1.3
